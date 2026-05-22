@@ -1,3 +1,8 @@
+object prueba{
+    method prueba(){
+        
+    }
+}
 object cosas {
  const cosas = [knightRider , contenedorPortuario]
 
